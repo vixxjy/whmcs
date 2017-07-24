@@ -1,0 +1,32 @@
+/* *****************************************************
+
+    ** Custom Stylesheet **
+
+    Any custom styling you want to apply should be
+    defined here.
+
+***************************************************** */
+#header1{
+	background-color: #12402b;
+	padding-bottom: 5px; 
+}
+.header {
+    transition-property: height;
+    background-color: #2E8B57;
+    height: 150px; 
+}
+.container-above-header{
+	padding-top: 20px; 
+}
+.menu-entry a{
+	color: #F0F8FF;
+}
+#logo img{
+	padding-right: 10px;
+	width: 120px;
+}
+.block.type-10 {
+    margin-top: 18px;
+    position: relative;
+    background-color: #fff;
+}
